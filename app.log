@@ -50,3 +50,5 @@
 2023-09-27T20:54:34.996Z [info]: Deleting item: test
 2023-09-27T20:54:35.277Z [error]: Error deleting item: test: ValidationException: The provided key element does not match the schema
 2023-09-27T20:56:49.032Z [info]: Deleting item with id: 22992a63-c131-4ce5-86b2-602408538ffb
+2023-09-27T20:57:07.762Z [info]: Deleting item with id: 22992a63-c131-4ce5-86b2-602408538ffb
+2023-09-27T20:57:08.017Z [info]: Successfully deleted item
