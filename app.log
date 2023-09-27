@@ -1,0 +1,52 @@
+2023-09-27T19:49:59.600Z [info]: Getting all items
+2023-09-27T19:49:59.872Z [info]: Successfully got all items
+2023-09-27T19:54:00.075Z [info]: Adding item: Apple
+2023-09-27T20:09:39.625Z [info]: Adding item: Apple
+2023-09-27T20:12:23.593Z [info]: Adding item: Apple
+2023-09-27T20:12:23.838Z [info]: Successfully added item: Apple
+2023-09-27T20:15:52.698Z [info]: Updating purchase status of item: Apple
+2023-09-27T20:15:52.699Z [info]: Getting item: Apple
+2023-09-27T20:15:52.702Z [error]: Error getting item: Apple: MissingRequiredParameter: Missing required key 'Key' in params
+2023-09-27T20:17:09.966Z [info]: Updating purchase status of item: Apple
+2023-09-27T20:17:09.968Z [info]: Getting item: Apple
+2023-09-27T20:17:10.223Z [error]: Error getting item: Apple: ValidationException: Either the KeyConditions or KeyConditionExpression parameter must be specified in the request.
+2023-09-27T20:24:16.030Z [info]: Adding item: test
+2023-09-27T20:24:16.298Z [info]: Successfully added item: test
+2023-09-27T20:24:25.269Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:24:55.978Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:26:50.114Z [info]: Deleting item: test
+2023-09-27T20:26:50.122Z [error]: Error deleting item: test: MissingRequiredParameter: Missing required key 'Key' in params
+2023-09-27T20:32:06.244Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:32:06.248Z [info]: Getting item: Soda
+2023-09-27T20:32:06.497Z [error]: Error getting item: Soda: ValidationException: Either the KeyConditions or KeyConditionExpression parameter must be specified in the request.
+2023-09-27T20:35:43.793Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:35:43.797Z [info]: Getting item: Soda
+2023-09-27T20:35:44.061Z [error]: Error getting item: Soda: ValidationException: Either the KeyConditions or KeyConditionExpression parameter must be specified in the request.
+2023-09-27T20:36:10.206Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:36:10.210Z [info]: Getting item: Soda
+2023-09-27T20:39:41.722Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:39:41.728Z [info]: Getting item: Soda
+2023-09-27T20:39:41.998Z [info]: Successfully got item: Soda
+2023-09-27T20:39:42.001Z [error]: Error updating purchase status of item: Soda: ValidationException: The provided key element does not match the schema
+2023-09-27T20:40:11.552Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:40:11.555Z [info]: Getting item: Soda
+2023-09-27T20:40:11.805Z [error]: Error updating purchase status of item: Soda: ValidationException: The provided key element does not match the schema
+2023-09-27T20:40:11.813Z [info]: Successfully got item: Soda
+2023-09-27T20:40:31.691Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:40:31.694Z [info]: Getting item: Soda
+2023-09-27T20:40:31.995Z [info]: Successfully got item: Soda
+2023-09-27T20:40:32.103Z [error]: Error updating purchase status of item: Soda: ValidationException: The provided key element does not match the schema
+2023-09-27T20:46:30.421Z [info]: Updating purchase status of item: Soda
+2023-09-27T20:46:30.715Z [info]: Successfully updated purchase status of item: Soda
+2023-09-27T20:46:38.477Z [info]: Getting all items
+2023-09-27T20:46:38.675Z [info]: Successfully got all items
+2023-09-27T20:46:55.462Z [info]: Deleting item: test
+2023-09-27T20:46:55.636Z [info]: Successfully deleted item: test
+2023-09-27T20:50:51.353Z [info]: Deleting item: test
+2023-09-27T20:50:51.620Z [error]: Error deleting item: test: ValidationException: The provided key element does not match the schema
+2023-09-27T20:51:15.163Z [info]: Deleting item: test
+2023-09-27T20:51:15.448Z [error]: Error deleting item: test: ValidationException: The provided key element does not match the schema
+2023-09-27T20:52:37.398Z [info]: Deleting item: test
+2023-09-27T20:54:34.996Z [info]: Deleting item: test
+2023-09-27T20:54:35.277Z [error]: Error deleting item: test: ValidationException: The provided key element does not match the schema
+2023-09-27T20:56:49.032Z [info]: Deleting item with id: 22992a63-c131-4ce5-86b2-602408538ffb
