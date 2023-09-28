@@ -52,3 +52,88 @@
 2023-09-27T20:56:49.032Z [info]: Deleting item with id: 22992a63-c131-4ce5-86b2-602408538ffb
 2023-09-27T20:57:07.762Z [info]: Deleting item with id: 22992a63-c131-4ce5-86b2-602408538ffb
 2023-09-27T20:57:08.017Z [info]: Successfully deleted item
+2023-09-28T02:16:14.376Z [info]: Getting item: asdfa
+2023-09-28T02:16:14.685Z [info]: Successfully got item: asdfa
+2023-09-28T02:16:14.690Z [info]: Updating purchase status of item: asdfa
+2023-09-28T02:16:14.812Z [info]: Successfully updated purchase status of item: undefined
+2023-09-28T02:16:48.918Z [info]: Getting item: asdfa
+2023-09-28T02:16:49.178Z [info]: Successfully got item: asdfa
+2023-09-28T02:16:49.181Z [info]: Updating purchase status of item: asdfa
+2023-09-28T02:16:49.311Z [info]: Successfully updated purchase status of item: undefined
+2023-09-28T02:18:40.265Z [info]: Getting item: asdfa
+2023-09-28T02:18:40.348Z [info]: Updating purchase status of item: asdfa
+2023-09-28T02:18:40.547Z [info]: Successfully got item: asdfa
+2023-09-28T02:19:31.321Z [info]: Getting item: asdfa
+2023-09-28T02:19:31.586Z [info]: Successfully got item: asdfa
+2023-09-28T02:19:31.589Z [info]: Updating purchase status of item: asdfa
+2023-09-28T02:19:31.696Z [info]: Successfully updated purchase status of item: Soda
+2023-09-28T02:20:02.460Z [info]: Getting item: asdfa
+2023-09-28T02:20:02.780Z [info]: Successfully got item: asdfa
+2023-09-28T02:20:02.784Z [info]: Updating purchase status of item: Soda
+2023-09-28T02:20:02.916Z [info]: Successfully updated purchase status of item: Soda
+2023-09-28T02:20:22.514Z [info]: Getting item: asdfa
+2023-09-28T02:20:22.787Z [info]: Successfully got item: asdfa
+2023-09-28T02:20:22.790Z [info]: Updating purchase status of item: Soda
+2023-09-28T02:20:22.908Z [info]: Successfully updated purchase status of item: Soda
+2023-09-28T02:21:07.062Z [info]: Getting item: asdfa
+2023-09-28T02:21:07.251Z [info]: Successfully got item: asdfa
+2023-09-28T02:21:07.252Z [info]: Updating purchase status of item: Soda
+2023-09-28T02:21:07.389Z [info]: Successfully updated purchase status of item: Soda
+2023-09-28T03:15:28.410Z [info]: Getting all items
+2023-09-28T03:15:28.736Z [info]: Successfully got all items
+2023-09-28T03:16:02.809Z [info]: Getting all items
+2023-09-28T03:16:03.079Z [info]: Successfully got all items
+2023-09-28T03:16:40.716Z [info]: Getting all items
+2023-09-28T03:16:40.896Z [info]: Successfully got all items
+2023-09-28T03:17:18.927Z [info]: Getting all items
+2023-09-28T03:17:19.106Z [info]: Successfully got all items
+2023-09-28T03:19:26.703Z [info]: Getting all items
+2023-09-28T03:19:26.868Z [info]: Successfully got all items
+2023-09-28T03:21:20.655Z [info]: Getting all items
+2023-09-28T03:21:20.852Z [info]: Successfully got all items
+2023-09-28T03:21:21.024Z [info]: Getting all items
+2023-09-28T03:21:21.144Z [info]: Successfully got all items
+2023-09-28T03:22:20.162Z [info]: Getting all items
+2023-09-28T03:22:20.339Z [info]: Successfully got all items
+2023-09-28T03:22:53.105Z [info]: Getting all items
+2023-09-28T03:22:53.287Z [info]: Successfully got all items
+2023-09-28T03:22:56.067Z [info]: Getting all items
+2023-09-28T03:22:57.189Z [info]: Successfully got all items
+2023-09-28T03:23:02.562Z [info]: Getting all items
+2023-09-28T03:23:02.798Z [info]: Successfully got all items
+2023-09-28T03:23:10.819Z [info]: Getting all items
+2023-09-28T03:23:10.996Z [info]: Successfully got all items
+2023-09-28T03:23:13.289Z [info]: Getting all items
+2023-09-28T03:23:13.385Z [info]: Successfully got all items
+2023-09-28T03:25:43.399Z [info]: Getting all items
+2023-09-28T03:25:43.570Z [info]: Successfully got all items
+2023-09-28T03:43:30.813Z [info]: Adding item: test
+2023-09-28T03:43:30.996Z [info]: Successfully added item: test
+2023-09-28T03:43:39.729Z [info]: Getting all items
+2023-09-28T03:43:39.938Z [info]: Successfully got all items
+2023-09-28T03:45:04.566Z [info]: Adding item: test1
+2023-09-28T03:45:04.757Z [info]: Successfully added item: test1
+2023-09-28T03:45:16.264Z [info]: Adding item: test2
+2023-09-28T03:45:16.456Z [info]: Successfully added item: test2
+2023-09-28T03:45:24.088Z [info]: Getting all items
+2023-09-28T03:45:24.268Z [info]: Successfully got all items
+2023-09-28T03:48:28.542Z [info]: Getting all items
+2023-09-28T03:48:28.710Z [info]: Successfully got all items
+2023-09-28T03:49:16.299Z [info]: Getting all items
+2023-09-28T03:49:16.502Z [info]: Successfully got all items
+2023-09-28T03:49:28.301Z [info]: Getting item: d8a04b21-392c-4183-b6e7-b1c2bdc94bcd
+2023-09-28T03:49:28.516Z [info]: Successfully got item: d8a04b21-392c-4183-b6e7-b1c2bdc94bcd
+2023-09-28T03:49:28.517Z [info]: Updating purchase status of item: test2
+2023-09-28T03:49:28.616Z [info]: Successfully updated purchase status of item: test2
+2023-09-28T03:49:32.371Z [info]: Getting all items
+2023-09-28T03:49:32.470Z [info]: Successfully got all items
+2023-09-28T03:49:39.556Z [info]: Deleting item with id: d8a04b21-392c-4183-b6e7-b1c2bdc94bcd
+2023-09-28T03:49:39.767Z [info]: Successfully deleted item
+2023-09-28T03:50:22.201Z [info]: Getting all items
+2023-09-28T03:50:22.378Z [info]: Successfully got all items
+2023-09-28T03:50:31.802Z [info]: Getting all items
+2023-09-28T03:50:31.998Z [info]: Successfully got all items
+2023-09-28T03:50:41.191Z [info]: Deleting item with id: 4282f288-ffbf-4ec9-a684-32605d3468e0
+2023-09-28T03:50:41.336Z [info]: Successfully deleted item
+2023-09-28T03:50:42.473Z [info]: Getting all items
+2023-09-28T03:50:42.568Z [info]: Successfully got all items

@@ -20,8 +20,8 @@ router.post('/items/add', validItem, (req, res) => {
     });
 });
 
-router.put('/items/purchase', (req, res) => {
-    itemsService.updateItem(req.body).then(data => {
+router.put('/items/purchase/:id', (req, res) => {
+    itemsService.updateItem(req.params.id).then(data => {
         res.status(200).send(data);
     }).catch((err) => {
         res.status(500).send({error: err});

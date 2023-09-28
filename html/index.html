@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Home</title>
+    </head>
+    <body>
+        <div id="get-all-container">
+            <h1>Get All Items</h1>
+            <input id="get-all-button" type="button" value="Get All Items"/><br/>
+            <ul id="item-list">
+                <!-- Items will be added here -->
+            </ul>
+        </div>
+        <div id="add-container">
+            <h1>Add Item</h1>       
+            <input id="add-name" type="text" placeholder="Name"/><br/>
+            <input id="add-qty" type="text" placeholder="Quantity"/><br/>
+            <input id="add-price" type="text" placeholder="Price"/><br/>
+            <input id="add-button" type="button" value="Add Item"/><br/>
+            <p id="add-response"></p> <!-- Response will be added here -->
+        </div>
+        <div id="update-container">
+            <h1>Purchase Item</h1>
+            <input id="update-item" type="text" placeholder="Item ID"/><br/>
+            <input id="update-button" type="button" value="Purchase Item"/><br/>
+            <p id="update-response"></p> <!-- Response will be added here -->
+        </div>
+        <div id="delete-container">
+            <h1>Delete Item</h1>
+            <input id="delete-item" type="text" placeholder="Item ID"/><br/>
+            <input id="delete-button" type="button" value="Delete Item"/><br/>
+            <p id="delete-response"></p> <!-- Response will be added here -->
+        </div>
+        <script src="../js/script.js"/>
+    </body>
+</html>

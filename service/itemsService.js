@@ -71,15 +71,16 @@ function addItem(item){
 }
 
 // Function to change purchased status of an item
-async function updateItem(body){
-    logger.info(`Updating purchase status of item: ${body.name}`);
-    let status = !body.purchased;
+async function updateItem(id){
+    let body = await getItem(id);
+    logger.info(`Updating purchase status of item: ${body.Item.name}`);
+    let status = !body.Item.purchased;
     return new Promise((resolve, reject) => {
-        itemsDAO.updateItem(body.grocery_item_id, status).then(data => {
-            logger.info(`Successfully updated purchase status of item: ${body.name}`);
+        itemsDAO.updateItem(id, status).then(data => {
+            logger.info(`Successfully updated purchase status of item: ${body.Item.name}`);
             resolve(data);
         }).catch(err => {
-            logger.error(`Error updating purchase status of item: ${body.name}: ${err}`);
+            logger.error(`Error updating purchase status of item: ${body.Item.name}: ${err}`);
             reject(err);
         });
     });

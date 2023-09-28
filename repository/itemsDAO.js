@@ -14,18 +14,14 @@ function getAllItems() {
     return docClient.scan(params).promise();
 }
 
-function getItem(name) {
+function getItem(grocery_item_id) {
     const params = {
         TableName: 'grocery_items',
-        FilterExpression: '#n = :name',
-        ExpressionAttributeNames: {
-            '#n': 'name'
-        },
-        ExpressionAttributeValues: {
-            ':name': name
-        }
+        Key: {
+            'grocery_item_id': grocery_item_id
+        } 
     };
-    return docClient.scan(params).promise();
+    return docClient.get(params).promise();
 }
 
 function addItem(item) {
